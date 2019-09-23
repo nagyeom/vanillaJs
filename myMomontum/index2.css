@@ -25,3 +25,10 @@
     z-index:-1;
     animation: fadeIn 0.5s linear;
 }
+
+body{
+    display:grid;
+    justify-content: center;
+    place-items: center;
+    grid-template-rows: 3fr repeat(3,1fr); 
+}
