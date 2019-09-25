@@ -32,3 +32,11 @@ body{
     place-items: center;
     grid-template-rows: 3fr repeat(3,1fr); 
 }
+
+.js-clock {
+    font-size: 34px;
+}
+
+.js-greeting {
+    font-size: 20px;
+}
